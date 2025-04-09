@@ -1,0 +1,1777 @@
+2025-04-08 20:11:23,018 - labor_market_scraper - INFO - Successfully connected to MongoDB
+2025-04-08 20:11:23,019 - labor_market_scraper - INFO - Starting labor market data scraping
+2025-04-08 20:11:23,020 - WDM - INFO - ====== WebDriver manager ======
+2025-04-08 20:11:24,296 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-08 20:11:24,537 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-08 20:11:24,786 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-08 20:11:25,195 - WDM - INFO - WebDriver version 134.0.6998.165 selected
+2025-04-08 20:11:25,197 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win32/chromedriver-win32.zip
+2025-04-08 20:11:25,198 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win32/chromedriver-win32.zip
+2025-04-08 20:11:25,439 - WDM - INFO - Driver downloading response is 200
+2025-04-08 20:11:29,279 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-08 20:11:29,560 - WDM - INFO - Driver has been saved in cache [C:\Users\MAHE\.wdm\drivers\chromedriver\win64\134.0.6998.165]
+2025-04-08 20:11:31,705 - labor_market_scraper - INFO - Scraping ILO data for India
+2025-04-08 20:11:32,207 - labor_market_scraper - INFO - Processing Optometry in Medical for India
+2025-04-08 20:11:32,208 - labor_market_scraper - INFO - Scraping LinkedIn for Optometry jobs in India
+2025-04-08 20:11:50,182 - labor_market_scraper - WARNING - Could not extract job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:11:50,200 - labor_market_scraper - INFO - Scraping Indeed for Optometry jobs in India
+2025-04-08 20:12:07,131 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:12:07,140 - labor_market_scraper - INFO - Scraping WHO data for Optometry
+2025-04-08 20:12:07,428 - labor_market_scraper - INFO - Processing Physiotherapy in Medical for India
+2025-04-08 20:12:07,429 - labor_market_scraper - INFO - Scraping LinkedIn for Physiotherapy jobs in India
+2025-04-08 20:12:24,865 - labor_market_scraper - WARNING - Could not extract job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:12:24,880 - labor_market_scraper - INFO - Scraping Indeed for Physiotherapy jobs in India
+2025-04-08 20:12:39,282 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:12:39,304 - labor_market_scraper - INFO - Scraping WHO data for Physiotherapy
+2025-04-08 20:12:39,745 - labor_market_scraper - INFO - Processing Nursing in Medical for India
+2025-04-08 20:12:39,746 - labor_market_scraper - INFO - Scraping LinkedIn for Nursing jobs in India
+2025-04-08 20:12:55,337 - labor_market_scraper - WARNING - Could not extract job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:12:55,363 - labor_market_scraper - INFO - Scraping Indeed for Nursing jobs in India
+2025-04-08 20:13:11,446 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:13:11,467 - labor_market_scraper - INFO - Scraping WHO data for Nursing
+2025-04-08 20:13:11,836 - labor_market_scraper - INFO - Processing Radiology in Medical for India
+2025-04-08 20:13:11,837 - labor_market_scraper - INFO - Scraping LinkedIn for Radiology jobs in India
+2025-04-08 20:13:28,629 - labor_market_scraper - WARNING - Could not extract job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:13:28,693 - labor_market_scraper - INFO - Scraping Indeed for Radiology jobs in India
+2025-04-08 20:13:44,607 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:13:44,660 - labor_market_scraper - INFO - Scraping WHO data for Radiology
+2025-04-08 20:13:45,051 - labor_market_scraper - INFO - Processing Dentistry in Medical for India
+2025-04-08 20:13:45,052 - labor_market_scraper - INFO - Scraping LinkedIn for Dentistry jobs in India
+2025-04-08 20:14:02,404 - labor_market_scraper - WARNING - Could not extract job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:14:02,429 - labor_market_scraper - INFO - Scraping Indeed for Dentistry jobs in India
+2025-04-08 20:14:16,762 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:14:16,788 - labor_market_scraper - INFO - Scraping WHO data for Dentistry
+2025-04-08 20:14:17,179 - labor_market_scraper - INFO - Processing Psychiatry in Medical for India
+2025-04-08 20:14:17,179 - labor_market_scraper - INFO - Scraping LinkedIn for Psychiatry jobs in India
+2025-04-08 20:14:34,053 - labor_market_scraper - WARNING - Could not extract job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:14:34,079 - labor_market_scraper - INFO - Scraping Indeed for Psychiatry jobs in India
+2025-04-08 20:14:48,320 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:14:48,343 - labor_market_scraper - INFO - Scraping WHO data for Psychiatry
+2025-04-08 20:14:48,682 - labor_market_scraper - INFO - Processing General Medicine in Medical for India
+2025-04-08 20:14:48,683 - labor_market_scraper - INFO - Scraping LinkedIn for General Medicine jobs in India
+2025-04-08 20:15:06,678 - labor_market_scraper - WARNING - Could not extract job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:15:06,699 - labor_market_scraper - INFO - Scraping Indeed for General Medicine jobs in India
+2025-04-08 20:15:24,625 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:15:24,649 - labor_market_scraper - INFO - Scraping WHO data for General Medicine
+2025-04-08 20:15:25,005 - labor_market_scraper - INFO - Processing Full Stack Development in Engineering for India
+2025-04-08 20:15:25,005 - labor_market_scraper - INFO - Scraping LinkedIn for Full Stack Development jobs in India
+2025-04-08 20:15:41,986 - labor_market_scraper - WARNING - Could not extract job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:15:42,012 - labor_market_scraper - INFO - Scraping Indeed for Full Stack Development jobs in India
+2025-04-08 20:15:58,190 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:15:58,216 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for Full Stack Development
+2025-04-08 20:15:58,218 - labor_market_scraper - INFO - Processing AI/ML Engineer in Engineering for India
+2025-04-08 20:15:58,218 - labor_market_scraper - INFO - Scraping LinkedIn for AI/ML Engineer jobs in India
+2025-04-08 20:16:16,161 - labor_market_scraper - WARNING - Could not extract job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:16:16,185 - labor_market_scraper - INFO - Scraping Indeed for AI/ML Engineer jobs in India
+2025-04-08 20:16:32,164 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:16:32,193 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for AI/ML Engineer
+2025-04-08 20:16:32,194 - labor_market_scraper - INFO - Processing Civil Engineering in Engineering for India
+2025-04-08 20:16:32,194 - labor_market_scraper - INFO - Scraping LinkedIn for Civil Engineering jobs in India
+2025-04-08 20:16:49,657 - labor_market_scraper - WARNING - Could not extract job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:16:49,680 - labor_market_scraper - INFO - Scraping Indeed for Civil Engineering jobs in India
+2025-04-08 20:17:05,859 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:17:05,884 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for Civil Engineering
+2025-04-08 20:17:05,885 - labor_market_scraper - INFO - Processing Mechanical Engineering in Engineering for India
+2025-04-08 20:17:05,885 - labor_market_scraper - INFO - Scraping LinkedIn for Mechanical Engineering jobs in India
+2025-04-08 20:17:22,499 - labor_market_scraper - WARNING - Could not extract job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:17:22,524 - labor_market_scraper - INFO - Scraping Indeed for Mechanical Engineering jobs in India
+2025-04-08 20:17:39,396 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:17:39,410 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for Mechanical Engineering
+2025-04-08 20:17:39,411 - labor_market_scraper - INFO - Processing Electrical Engineering in Engineering for India
+2025-04-08 20:17:39,411 - labor_market_scraper - INFO - Scraping LinkedIn for Electrical Engineering jobs in India
+2025-04-08 20:17:56,821 - labor_market_scraper - WARNING - Could not extract job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:17:56,846 - labor_market_scraper - INFO - Scraping Indeed for Electrical Engineering jobs in India
+2025-04-08 20:18:12,213 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:18:12,243 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for Electrical Engineering
+2025-04-08 20:18:12,244 - labor_market_scraper - INFO - Processing Data Engineering in Engineering for India
+2025-04-08 20:18:12,245 - labor_market_scraper - INFO - Scraping LinkedIn for Data Engineering jobs in India
+2025-04-08 20:18:27,872 - labor_market_scraper - WARNING - Could not extract job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:18:27,898 - labor_market_scraper - INFO - Scraping Indeed for Data Engineering jobs in India
+2025-04-08 20:18:43,631 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:18:43,656 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for Data Engineering
+2025-04-08 20:18:43,656 - labor_market_scraper - INFO - Processing DevOps Engineer in Engineering for India
+2025-04-08 20:18:43,657 - labor_market_scraper - INFO - Scraping LinkedIn for DevOps Engineer jobs in India
+2025-04-08 20:18:59,895 - labor_market_scraper - WARNING - Could not extract job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:18:59,922 - labor_market_scraper - INFO - Scraping Indeed for DevOps Engineer jobs in India
+2025-04-08 20:19:16,857 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:19:16,880 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for DevOps Engineer
+2025-04-08 20:19:16,903 - labor_market_scraper - INFO - Data saved to MongoDB with ID: 67f5376c2d020850807555a3
+2025-04-08 20:19:16,904 - labor_market_scraper - INFO - Completed processing for India
+2025-04-08 20:19:27,020 - labor_market_scraper - INFO - Scraping ILO data for USA
+2025-04-08 20:19:27,934 - labor_market_scraper - INFO - Processing Optometry in Medical for USA
+2025-04-08 20:19:27,934 - labor_market_scraper - INFO - Scraping LinkedIn for Optometry jobs in USA
+2025-04-08 20:19:35,269 - labor_market_scraper - INFO - Scraping Indeed for Optometry jobs in USA
+2025-04-08 20:19:53,814 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:19:53,838 - labor_market_scraper - INFO - Scraping WHO data for Optometry
+2025-04-08 20:19:54,353 - labor_market_scraper - INFO - Processing Physiotherapy in Medical for USA
+2025-04-08 20:19:54,353 - labor_market_scraper - INFO - Scraping LinkedIn for Physiotherapy jobs in USA
+2025-04-08 20:20:00,713 - labor_market_scraper - INFO - Scraping Indeed for Physiotherapy jobs in USA
+2025-04-08 20:20:16,913 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:20:16,940 - labor_market_scraper - INFO - Scraping WHO data for Physiotherapy
+2025-04-08 20:20:17,639 - labor_market_scraper - INFO - Processing Nursing in Medical for USA
+2025-04-08 20:20:17,640 - labor_market_scraper - INFO - Scraping LinkedIn for Nursing jobs in USA
+2025-04-08 20:20:23,706 - labor_market_scraper - INFO - Scraping Indeed for Nursing jobs in USA
+2025-04-08 20:20:39,131 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:20:39,154 - labor_market_scraper - INFO - Scraping WHO data for Nursing
+2025-04-08 20:20:39,607 - labor_market_scraper - INFO - Processing Radiology in Medical for USA
+2025-04-08 20:20:39,607 - labor_market_scraper - INFO - Scraping LinkedIn for Radiology jobs in USA
+2025-04-08 20:20:46,281 - labor_market_scraper - INFO - Scraping Indeed for Radiology jobs in USA
+2025-04-08 20:21:19,521 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:21:19,544 - labor_market_scraper - INFO - Scraping WHO data for Radiology
+2025-04-08 20:21:19,944 - labor_market_scraper - INFO - Processing Dentistry in Medical for USA
+2025-04-08 20:21:19,945 - labor_market_scraper - INFO - Scraping LinkedIn for Dentistry jobs in USA
+2025-04-08 20:21:25,734 - labor_market_scraper - INFO - Scraping Indeed for Dentistry jobs in USA
+2025-04-08 20:21:40,128 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:21:40,160 - labor_market_scraper - INFO - Scraping WHO data for Dentistry
+2025-04-08 20:21:40,586 - labor_market_scraper - INFO - Processing Psychiatry in Medical for USA
+2025-04-08 20:21:40,586 - labor_market_scraper - INFO - Scraping LinkedIn for Psychiatry jobs in USA
+2025-04-08 20:21:46,686 - labor_market_scraper - INFO - Scraping Indeed for Psychiatry jobs in USA
+2025-04-08 20:22:04,726 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:22:04,748 - labor_market_scraper - INFO - Scraping WHO data for Psychiatry
+2025-04-08 20:22:05,291 - labor_market_scraper - INFO - Processing General Medicine in Medical for USA
+2025-04-08 20:22:05,292 - labor_market_scraper - INFO - Scraping LinkedIn for General Medicine jobs in USA
+2025-04-08 20:22:11,988 - labor_market_scraper - INFO - Scraping Indeed for General Medicine jobs in USA
+2025-04-08 20:22:26,490 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:22:26,514 - labor_market_scraper - INFO - Scraping WHO data for General Medicine
+2025-04-08 20:22:27,161 - labor_market_scraper - INFO - Processing Full Stack Development in Engineering for USA
+2025-04-08 20:22:27,161 - labor_market_scraper - INFO - Scraping LinkedIn for Full Stack Development jobs in USA
+2025-04-08 20:22:32,710 - labor_market_scraper - INFO - Scraping Indeed for Full Stack Development jobs in USA
+2025-04-08 20:22:59,289 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:22:59,312 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for Full Stack Development
+2025-04-08 20:22:59,312 - labor_market_scraper - INFO - Processing AI/ML Engineer in Engineering for USA
+2025-04-08 20:22:59,313 - labor_market_scraper - INFO - Scraping LinkedIn for AI/ML Engineer jobs in USA
+2025-04-08 20:23:07,532 - labor_market_scraper - INFO - Scraping Indeed for AI/ML Engineer jobs in USA
+2025-04-08 20:23:24,295 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:23:24,314 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for AI/ML Engineer
+2025-04-08 20:23:24,329 - labor_market_scraper - INFO - Processing Civil Engineering in Engineering for USA
+2025-04-08 20:23:24,329 - labor_market_scraper - INFO - Scraping LinkedIn for Civil Engineering jobs in USA
+2025-04-08 20:23:30,737 - labor_market_scraper - INFO - Scraping Indeed for Civil Engineering jobs in USA
+2025-04-08 20:23:44,646 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:23:44,664 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for Civil Engineering
+2025-04-08 20:23:44,665 - labor_market_scraper - INFO - Processing Mechanical Engineering in Engineering for USA
+2025-04-08 20:23:44,665 - labor_market_scraper - INFO - Scraping LinkedIn for Mechanical Engineering jobs in USA
+2025-04-08 20:23:52,849 - labor_market_scraper - INFO - Scraping Indeed for Mechanical Engineering jobs in USA
+2025-04-08 20:24:07,331 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:24:07,346 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for Mechanical Engineering
+2025-04-08 20:24:07,346 - labor_market_scraper - INFO - Processing Electrical Engineering in Engineering for USA
+2025-04-08 20:24:07,347 - labor_market_scraper - INFO - Scraping LinkedIn for Electrical Engineering jobs in USA
+2025-04-08 20:24:15,764 - labor_market_scraper - INFO - Scraping Indeed for Electrical Engineering jobs in USA
+2025-04-08 20:24:31,883 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:24:31,898 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for Electrical Engineering
+2025-04-08 20:24:31,898 - labor_market_scraper - INFO - Processing Data Engineering in Engineering for USA
+2025-04-08 20:24:31,899 - labor_market_scraper - INFO - Scraping LinkedIn for Data Engineering jobs in USA
+2025-04-08 20:24:38,531 - labor_market_scraper - INFO - Scraping Indeed for Data Engineering jobs in USA
+2025-04-08 20:24:54,139 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:24:54,155 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for Data Engineering
+2025-04-08 20:24:54,156 - labor_market_scraper - INFO - Processing DevOps Engineer in Engineering for USA
+2025-04-08 20:24:54,156 - labor_market_scraper - INFO - Scraping LinkedIn for DevOps Engineer jobs in USA
+2025-04-08 20:25:00,545 - labor_market_scraper - INFO - Scraping Indeed for DevOps Engineer jobs in USA
+2025-04-08 20:25:15,254 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:25:15,268 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for DevOps Engineer
+2025-04-08 20:25:15,270 - labor_market_scraper - INFO - Data saved to MongoDB with ID: 67f538d32d020850807555a4
+2025-04-08 20:25:15,271 - labor_market_scraper - INFO - Completed processing for USA
+2025-04-08 20:25:28,044 - labor_market_scraper - INFO - Scraping ILO data for UK
+2025-04-08 20:25:28,760 - labor_market_scraper - INFO - Processing Optometry in Medical for UK
+2025-04-08 20:25:28,761 - labor_market_scraper - INFO - Scraping LinkedIn for Optometry jobs in UK
+2025-04-08 20:25:33,974 - labor_market_scraper - INFO - Scraping Indeed for Optometry jobs in UK
+2025-04-08 20:25:51,146 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:25:51,160 - labor_market_scraper - INFO - Scraping WHO data for Optometry
+2025-04-08 20:25:51,491 - labor_market_scraper - INFO - Processing Physiotherapy in Medical for UK
+2025-04-08 20:25:51,493 - labor_market_scraper - INFO - Scraping LinkedIn for Physiotherapy jobs in UK
+2025-04-08 20:26:08,416 - labor_market_scraper - WARNING - Could not extract job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:26:08,431 - labor_market_scraper - INFO - Scraping Indeed for Physiotherapy jobs in UK
+2025-04-08 20:26:24,258 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:26:24,271 - labor_market_scraper - INFO - Scraping WHO data for Physiotherapy
+2025-04-08 20:26:24,592 - labor_market_scraper - INFO - Processing Nursing in Medical for UK
+2025-04-08 20:26:24,593 - labor_market_scraper - INFO - Scraping LinkedIn for Nursing jobs in UK
+2025-04-08 20:26:29,683 - labor_market_scraper - INFO - Scraping Indeed for Nursing jobs in UK
+2025-04-08 20:26:45,686 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:26:45,703 - labor_market_scraper - INFO - Scraping WHO data for Nursing
+2025-04-08 20:26:46,072 - labor_market_scraper - INFO - Processing Radiology in Medical for UK
+2025-04-08 20:26:46,072 - labor_market_scraper - INFO - Scraping LinkedIn for Radiology jobs in UK
+2025-04-08 20:26:51,697 - labor_market_scraper - INFO - Scraping Indeed for Radiology jobs in UK
+2025-04-08 20:27:06,632 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:27:06,646 - labor_market_scraper - INFO - Scraping WHO data for Radiology
+2025-04-08 20:27:09,125 - labor_market_scraper - INFO - Processing Dentistry in Medical for UK
+2025-04-08 20:27:09,126 - labor_market_scraper - INFO - Scraping LinkedIn for Dentistry jobs in UK
+2025-04-08 20:27:15,588 - labor_market_scraper - INFO - Scraping Indeed for Dentistry jobs in UK
+2025-04-08 20:27:31,989 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:27:32,002 - labor_market_scraper - INFO - Scraping WHO data for Dentistry
+2025-04-08 20:27:32,429 - labor_market_scraper - INFO - Processing Psychiatry in Medical for UK
+2025-04-08 20:27:32,453 - labor_market_scraper - INFO - Scraping LinkedIn for Psychiatry jobs in UK
+2025-04-08 20:27:39,860 - labor_market_scraper - INFO - Scraping Indeed for Psychiatry jobs in UK
+2025-04-08 20:27:55,966 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:27:55,982 - labor_market_scraper - INFO - Scraping WHO data for Psychiatry
+2025-04-08 20:27:56,299 - labor_market_scraper - INFO - Processing General Medicine in Medical for UK
+2025-04-08 20:27:56,300 - labor_market_scraper - INFO - Scraping LinkedIn for General Medicine jobs in UK
+2025-04-08 20:28:12,636 - labor_market_scraper - WARNING - Could not extract job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:28:12,648 - labor_market_scraper - INFO - Scraping Indeed for General Medicine jobs in UK
+2025-04-08 20:28:28,915 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:28:28,932 - labor_market_scraper - INFO - Scraping WHO data for General Medicine
+2025-04-08 20:28:29,268 - labor_market_scraper - INFO - Processing Full Stack Development in Engineering for UK
+2025-04-08 20:28:29,268 - labor_market_scraper - INFO - Scraping LinkedIn for Full Stack Development jobs in UK
+2025-04-08 20:28:45,141 - labor_market_scraper - WARNING - Could not extract job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:28:45,157 - labor_market_scraper - INFO - Scraping Indeed for Full Stack Development jobs in UK
+2025-04-08 20:28:59,984 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:29:00,001 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for Full Stack Development
+2025-04-08 20:29:00,001 - labor_market_scraper - INFO - Processing AI/ML Engineer in Engineering for UK
+2025-04-08 20:29:00,001 - labor_market_scraper - INFO - Scraping LinkedIn for AI/ML Engineer jobs in UK
+2025-04-08 20:29:15,502 - labor_market_scraper - WARNING - Could not extract job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:29:15,516 - labor_market_scraper - INFO - Scraping Indeed for AI/ML Engineer jobs in UK
+2025-04-08 20:29:32,089 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:29:32,100 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for AI/ML Engineer
+2025-04-08 20:29:32,101 - labor_market_scraper - INFO - Processing Civil Engineering in Engineering for UK
+2025-04-08 20:29:32,101 - labor_market_scraper - INFO - Scraping LinkedIn for Civil Engineering jobs in UK
+2025-04-08 20:29:38,623 - labor_market_scraper - INFO - Scraping Indeed for Civil Engineering jobs in UK
+2025-04-08 20:29:54,151 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:29:54,166 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for Civil Engineering
+2025-04-08 20:29:54,168 - labor_market_scraper - INFO - Processing Mechanical Engineering in Engineering for UK
+2025-04-08 20:29:54,168 - labor_market_scraper - INFO - Scraping LinkedIn for Mechanical Engineering jobs in UK
+2025-04-08 20:30:01,212 - labor_market_scraper - INFO - Scraping Indeed for Mechanical Engineering jobs in UK
+2025-04-08 20:30:17,491 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:30:17,502 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for Mechanical Engineering
+2025-04-08 20:30:17,502 - labor_market_scraper - INFO - Processing Electrical Engineering in Engineering for UK
+2025-04-08 20:30:17,502 - labor_market_scraper - INFO - Scraping LinkedIn for Electrical Engineering jobs in UK
+2025-04-08 20:30:24,150 - labor_market_scraper - INFO - Scraping Indeed for Electrical Engineering jobs in UK
+2025-04-08 20:30:39,549 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:30:39,565 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for Electrical Engineering
+2025-04-08 20:30:39,566 - labor_market_scraper - INFO - Processing Data Engineering in Engineering for UK
+2025-04-08 20:30:39,567 - labor_market_scraper - INFO - Scraping LinkedIn for Data Engineering jobs in UK
+2025-04-08 20:30:44,948 - labor_market_scraper - INFO - Scraping Indeed for Data Engineering jobs in UK
+2025-04-08 20:31:01,832 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:31:01,848 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for Data Engineering
+2025-04-08 20:31:01,848 - labor_market_scraper - INFO - Processing DevOps Engineer in Engineering for UK
+2025-04-08 20:31:01,849 - labor_market_scraper - INFO - Scraping LinkedIn for DevOps Engineer jobs in UK
+2025-04-08 20:31:18,386 - labor_market_scraper - WARNING - Could not extract job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:31:18,402 - labor_market_scraper - INFO - Scraping Indeed for DevOps Engineer jobs in UK
+2025-04-08 20:31:35,009 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:31:35,031 - labor_market_scraper - INFO - Extracting Stack Overflow survey data for DevOps Engineer
+2025-04-08 20:31:35,034 - labor_market_scraper - INFO - Data saved to MongoDB with ID: 67f53a4f2d020850807555a5
+2025-04-08 20:31:35,034 - labor_market_scraper - INFO - Completed processing for UK
+2025-04-08 20:31:48,867 - labor_market_scraper - INFO - Scraping ILO data for Canada
+2025-04-08 20:31:49,714 - labor_market_scraper - INFO - Processing Optometry in Medical for Canada
+2025-04-08 20:31:49,715 - labor_market_scraper - INFO - Scraping LinkedIn for Optometry jobs in Canada
+2025-04-08 20:31:55,972 - labor_market_scraper - INFO - Scraping Indeed for Optometry jobs in Canada
+2025-04-08 20:32:11,432 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:32:11,460 - labor_market_scraper - INFO - Scraping WHO data for Optometry
+2025-04-08 20:32:11,856 - labor_market_scraper - INFO - Processing Physiotherapy in Medical for Canada
+2025-04-08 20:32:11,856 - labor_market_scraper - INFO - Scraping LinkedIn for Physiotherapy jobs in Canada
+2025-04-08 20:32:18,666 - labor_market_scraper - INFO - Scraping Indeed for Physiotherapy jobs in Canada
+2025-04-08 20:32:32,557 - labor_market_scraper - WARNING - Could not extract Indeed job count: Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DC7F3+24435]
+	(No symbol) [0x00762074]
+	(No symbol) [0x006306E3]
+	(No symbol) [0x00678B39]
+	(No symbol) [0x00678E8B]
+	(No symbol) [0x006C1AC2]
+	(No symbol) [0x0069D804]
+	(No symbol) [0x006BF20A]
+	(No symbol) [0x0069D5B6]
+	(No symbol) [0x0066C54F]
+	(No symbol) [0x0066D894]
+	GetHandleVerifier [0x00AE70A3+3213347]
+	GetHandleVerifier [0x00AFB0C9+3295305]
+	GetHandleVerifier [0x00AF558C+3271948]
+	GetHandleVerifier [0x00877360+658144]
+	(No symbol) [0x0076B27D]
+	(No symbol) [0x00768208]
+	(No symbol) [0x007683A9]
+	(No symbol) [0x0075AAC0]
+	BaseThreadInitThunk [0x768E7BA9+25]
+	RtlInitializeExceptionChain [0x7733C2EB+107]
+	RtlClearBits [0x7733C26F+191]
+
+2025-04-08 20:32:32,570 - labor_market_scraper - INFO - Scraping WHO data for Physiotherapy
+2025-04-08 20:32:32,813 - labor_market_scraper - INFO - Processing Nursing in Medical for Canada
+2025-04-08 20:32:32,814 - labor_market_scraper - INFO - Scraping LinkedIn for Nursing jobs in Canada
+2025-04-08 20:32:39,004 - labor_market_scraper - INFO - Scraping Indeed for Nursing jobs in Canada
+2025-04-08 20:32:50,518 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/d6f3eb30729850558128970230e660dc
